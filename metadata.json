@@ -1,0 +1,5 @@
+{
+  "name": "AI Activity Log Parser",
+  "description": "An intelligent application that parses unstructured daily activity logs into a structured, categorized timeline using AI. Paste your logs and instantly see an organized view of events, meetings, and tasks.",
+  "requestFramePermissions": []
+}
